@@ -9,3 +9,5 @@ Streamlit+MySQL based dashboard to manage employee records with CRUD operation
 - Python, Streamlit, MySQL, Pandas
 
 ## How to Run
+1. pip install -r requirements.txt
+2. streamlit run app.py
